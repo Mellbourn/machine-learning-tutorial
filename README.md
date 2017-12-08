@@ -9,7 +9,7 @@ set up your python env as appropriate
 workon tensorflow
 ```
 
-Run the
+Run the training and show result
 
 ```
 make run
